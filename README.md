@@ -10,11 +10,17 @@ Portal de Noticias es un sitio web desarrollado con html y css que permite acced
 ## Estructura del Proyecto:
 Portal-de-Noticias/
 |--index.html
+|
 |--tecnologia.html
+|
 |--deportes.html
+|
 |--economia.html
+|
 |--musica.html
-|--styles.css
+|
+|--styles
+|
 |--README.md
 
 ## Instalación:
